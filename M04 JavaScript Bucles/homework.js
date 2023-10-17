@@ -201,7 +201,7 @@ function doWhile(num) {
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
-module.exports = {
+module.exports = { 
    obtenerMayor,
    mayoriaDeEdad,
    conection,
